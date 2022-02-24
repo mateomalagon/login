@@ -1,0 +1,21 @@
+textarea {
+  height: 200px !important;
+}
+form {
+  background-image: url(../images/bc.jpg);
+  border-radius: 8px;
+}
+#wrapper {
+  background-image: url(../images/patron.jpg);
+}
+h1 {
+  box-shadow: 2px 2px 8px black;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 2px;
+  border-radius: 8px;
+  border: solid 2px rgb(0, 153, 255);
+}
+
+span {
+  color: red;
+}
